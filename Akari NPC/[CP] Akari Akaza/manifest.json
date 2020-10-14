@@ -1,0 +1,10 @@
+{
+  "Name": "Akari Akaza NPC",
+  "Author": "ExnoticE",
+  "Description": "New NPC",
+  "Version": "1.0",
+  "UniqueID": "ExnoticTest.AkariAkaza",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+}
