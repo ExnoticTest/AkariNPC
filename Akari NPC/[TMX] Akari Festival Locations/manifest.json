@@ -8,9 +8,4 @@
   "ContentPackFor": {
     "UniqueID": "Platonymous.TMXLoader"
   },
-  "Dependencies": [
-    {
-      "UniqueID": "KimJyeulNPC.ExnoticTest"
-    }
-  ]
 }
