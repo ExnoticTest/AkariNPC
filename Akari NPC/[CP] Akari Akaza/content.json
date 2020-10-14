@@ -5,7 +5,7 @@
       "LogName": "NPC Sprite",
       "Action": "Load",
       "Target": "Characters/Akari",
-      "FromFile": "assets/img/AkariSprite_Placeholder.png",
+      "FromFile": "assets/img/AkariSprite_{{season}}.png",
     },  
     {
       "LogName": "NPC Portrait",
